@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--Muhammad Awais — Software Engineer
+Muhammad Awais — Software Engineer
 Hi there! I'm Muhammad Awais, a passionate software engineer focused on building clean, efficient, and scalable solutions. I love working across the full stack, experimenting with new technologies, and solving real-world problems with code.
 
 💻 What I Do
@@ -36,4 +36,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
